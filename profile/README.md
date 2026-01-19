@@ -33,7 +33,8 @@
 
 ## 🍽️ Software Architecture
 - **1차**
-<img width="949" height="483" alt="1차 SW 아키텍처" src="https://github.com/user-attachments/assets/93ea709c-4582-4196-9e36-e76307b1b25f" /><br/>
+<img width="949" height="483" alt="1차 SW 아키텍처" src="https://github.com/user-attachments/assets/93ea709c-4582-4196-9e36-e76307b1b25f" />
+
 - **2차**
 <img width="1332" height="692" alt="2차 SW 아키텍처" src="https://github.com/user-attachments/assets/884eea0b-1b0e-4be8-a267-ea55ebd6c300" />
 
