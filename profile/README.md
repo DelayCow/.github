@@ -9,7 +9,7 @@
 **2차: 2025.12.17 ~ 2025.12.30(2주)**
 
 ## 🍽️ 팀 소개
-| 지연우[조장] | 박세희 | 심재용 | 황혁준 |
+| 지연우 | 박세희 | 심재용 | 황혁준 |
 |:------:|:------:|:------:|:------:|
 | <img src="https://avatars.githubusercontent.com/u/110551002?v=4" alt="지연우" width="150"> | <img src="https://avatars.githubusercontent.com/u/237663119?v=4" alt="박세희" width="170"> |<img src="https://avatars.githubusercontent.com/u/102509662?v=4" alt="심재용" width="170"> |<img src="https://avatars.githubusercontent.com/u/225848337?v=4" alt="황혁준" width="170"> |
 | [@wldusdn](https://github.com/wldusdn) | [@shpark091](https://github.com/shpark091) | [@reeuse](https://github.com/reeuse) | [@CoffeCodeTV](https://github.com/CoffeCodeTV) |
